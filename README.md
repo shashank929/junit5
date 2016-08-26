@@ -1,6 +1,6 @@
 # JUnit 5
 
-This repository is the home of the next generation of JUnit, _JUnit 5_.
+This repository is the home of the next generation of JUnit, _JUnit 5_
 
 The project is currently in _Phase 5_, working toward additional [_milestone_](https://github.com/junit-team/junit5/milestones) releases.
 
